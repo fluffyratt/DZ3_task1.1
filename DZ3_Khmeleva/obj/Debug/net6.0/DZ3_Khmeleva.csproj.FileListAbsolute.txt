@@ -1,0 +1,15 @@
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\bin\Debug\net6.0\DZ3_Khmeleva.exe
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\bin\Debug\net6.0\DZ3_Khmeleva.deps.json
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\bin\Debug\net6.0\DZ3_Khmeleva.runtimeconfig.json
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\bin\Debug\net6.0\DZ3_Khmeleva.dll
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\bin\Debug\net6.0\DZ3_Khmeleva.pdb
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.csproj.AssemblyReference.cache
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.AssemblyInfoInputs.cache
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.AssemblyInfo.cs
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.csproj.CoreCompileInputs.cache
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.dll
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\refint\DZ3_Khmeleva.dll
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.pdb
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\DZ3_Khmeleva.genruntimeconfig.cache
+C:\Users\45ksu\Desktop\ООП\DZ3_Khmeleva\obj\Debug\net6.0\ref\DZ3_Khmeleva.dll
